@@ -1,12 +1,16 @@
-# 表扬榜
+# 表扬榜 PRAISE BOARD
 
-## 简介
+## 简介 INTRODUCE 
 
 一个简单的表扬榜，目前最多支持48位学生
+
+A simple praise board, 48 students most
 
 目前已经在正在高新区第二实验中学八年级八班落实使用
 
 *本项目大多程序为AI生成*
+
+
 
 ## 其他
 
